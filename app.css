@@ -109,6 +109,8 @@ li {
 
     .pricing-plan {
         border-bottom: 0;
+        width: 60%;
+        margin-top: 3em;
         border-right: 1px solid #d0b8a8d1;
     }
 
